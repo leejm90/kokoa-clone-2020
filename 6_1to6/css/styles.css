@@ -31,3 +31,8 @@ body {
 .second_block--line {
   display: block;
 }
+
+.block_4--text {
+  display: flex;
+  align-items: center;
+}
